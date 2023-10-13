@@ -1,13 +1,39 @@
 <resources>
     <string name="app_name">Practica09-Rodriguez-Salazar-Hector-Mauricio</string>
+
+    <!--    Etiquetas a capturar-->
+    <string name="titulo">Precio del Mañana</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="correo">Correo Eléctronico</string>
+    <string name="informacion">En el Precio del Mañana nos interesa el gusto por la historia, y los artefactos que se pueden encontrar a lo largo de la historia.\n\n Nos gusta ver que los coleccionistas mantienen la historia viva,  haciéndose de un pieza importante de la historia en nuestra tienda como lo son joyas, muebles, relojes hermosos, y demás. \n\n Tenemos a buen precio distinguiéndonos de otros, además porque están en buen estado.  \n\n En el precio del Mañana nos pueden contactar a través de precio@android.com o por nuestro número de teléfono 3314331809. \n\n Tenemos sucursales en  C. Nueva Escocia 1885, 44630 Guadalajara, Jal., Loma Dorada Norte 8962, Loma Dorada (Ejidal), 45418 Tonalá, Jal. Y en Valle Real 2021, 45138 Zapopan, Jal.</string>
+    <string-array name="antiguedades">
+        <item>Joyas</item>
+        <item>Monedas</item>
+        <item>Armas</item>
+        <item>Instrumentos musicales</item>
+        <item>Arte</item>
+        <item>Muebles</item>
+        <item>Relojes</item>
+    </string-array>
+
+    <string name="descripcion">Descripcion del Producto</string>
+
+    <string name="formulario">Formulario</string>
+
+    <!--    Etiquetas generadas-->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">Precio del Mañana</string>
+    <string name="nav_header_subtitle">precio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Cerrar Sesión</string>
 
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <!--    Etiquetas de menu-->
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Antigüedades</string>
+    <string name="menu_slideshow">Información</string>
+    <string name="menu_contacto">Contacto</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
